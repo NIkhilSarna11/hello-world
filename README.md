@@ -1,2 +1,2 @@
-# hello-world
-first repo on git
+# Java programs
+first Repository on github
